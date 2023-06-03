@@ -49,7 +49,7 @@ Navegante o usuario sin registro que simplemente navega por la página sin logue
 El cliente registrado, además podrá:
 - Modificar su perfil (email,contraseña).
 - Ver/editar sus pedidos (datos del pedido, además del estado de los mismos, etc.)
-- Nuevo
+- Nuevo hhj
 
 ### Editor
 Editor o empleado con acceso a mantenimiento (altas, bajas y modificaciones) de artículos, categorías y pedidos.
