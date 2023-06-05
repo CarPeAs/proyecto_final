@@ -4,7 +4,7 @@
 
 Diseño de una aplicación web de tienda virtual programada en lenguaje PHP con uso de framework Symfony para el proyecto final del FP **Desarrollo Aplicaciones Web (DAW)**.
 
-## Planteamiento práctica final.
+## Planteamiento proyecto final.
 
 ### Organización de la página:
 En la página principal, aparecé una cabecera con logotipo o imagen de la empresa, y debajo un menú con los apartados Inicio, Conocenos(quienes somos), Catalogo, Pedidos y contacto.
