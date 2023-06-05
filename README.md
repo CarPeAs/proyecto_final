@@ -2,7 +2,7 @@
 
 ## Carateristicas generales del proyecto
 
-Diseño de una aplicación web de tienda virtual programada en lenguaje PHP con uso de framework Symfony para el proyecto final del FP **Desarrollo Aplicaciones Wev (DAW)**.
+Diseño de una aplicación web de tienda virtual programada en lenguaje PHP con uso de framework Symfony para el proyecto final del FP **Desarrollo Aplicaciones Web (DAW)**.
 
 ## Planteamiento práctica final.
 
